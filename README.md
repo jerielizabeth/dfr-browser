@@ -1,3 +1,11 @@
+# Notes on browser adaptations for *A Gospel of Health and Salvation*
+
+The data on the Seventh-day Adventist periodicals was generated using the commandline version of [MALLET](http://mallet.cs.umass.edu/) and the included "prepare data" script in `bin`. 
+
+To run locally, launch the included Python web server out of `bin/server` (uses Python 3).
+
+Below is the original README information for the browser.
+
 # A simple topic-model browser
 
 These files use [d3](http://d3js.org) to provide a way to browse some of a topic model of texts in a web browser, relying entirely on static html and javascript files. It is specialized for models of texts from JSTOR's [Data for Research](http://dfr.jstor.org) service, though it can be (and has been) adapted for models of other corpora. For more information, see the main project page at [agoldst.github.io/dfr-browser](http://agoldst.github.io/dfr-browser) and the [working demo](http://agoldst.github.io/dfr-browser/demo), a browser for a 64-topic model of the journal *PMLA*.
