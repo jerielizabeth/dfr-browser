@@ -2,7 +2,7 @@
     "VIS": {
         "overview_words": 15
     }, 
-    "meta_info": "<h2>About the Topic Model Browser</h2><p>This site provides access to an implementation of Andrew Goldstone's <a href='http://agoldst.github.io/dfr-browser/'>Data for Research Topic Model Browser</a> with the periodical literature of the Seventh-day Adventist denomination. The browser was set up by Jeri E. Wieringa as part of her dissertation project, <a href='http://dissertation.jeriwieringa.com'><em>A Gospel of Health and Salvation: Modeling the Religious Culture of Seventh-day Adventism, 1843-1920</em></a>.</p> <p>To read more about the selection, use, and evaluation of the browser as part of a digital humanities dissertation, see <a href='http://dissertation.jeriwieringa.com/browser-about/'>the browser 'About' page</a> on the main dissertation site.</p>", 
+    "meta_info": "<h2>About the Topic Model Browser</h2><p>This site provides access to an implementation of Andrew Goldstone's <a href='http://agoldst.github.io/dfr-browser/'>Data for Research Topic Model Browser</a>, visualizing a 250 topic model of the periodical literature of the Seventh-day Adventist denomination. The browser part of Jeri E. Wieringa's dissertation project, <a href='http://dissertation.jeriwieringa.com'><em>A Gospel of Health and Salvation: Modeling the Religious Culture of Seventh-day Adventism, 1843-1920</em></a>.</p> <p>To read more about the selection, use, and evaluation of the browser as part of a digital humanities dissertation, see <a href='http://dissertation.jeriwieringa.com/browser-about/'>the browser 'About' page</a> on the main dissertation site.</p>", 
     "title": "A Gospel of Health and Salvation",
     "topic_labels": {
         "1": "Missions (Canvassing Work)",
@@ -158,7 +158,7 @@
         "234": "Reports on the Cause (\"Progress of the Cause\" - Report of Labor)",
         "235": "Theology (Christology)",
         "236": "Stories (Animals)",
-        "237": "Periodicals (Publication Information - Michgan Titles)",
+        "237": "Periodicals (Publication Information - Michigan Titles)",
         "238": "Spiritual Growth (Christian Virtue)",
         "239": "Organization (Constitutions, Bylaws, and Articles of Incorporation)",
         "24": "Theology (Atonement)",
@@ -229,7 +229,7 @@
         "73": "Theology (the Dead)",
         "74": "Apologetics (Debates)",
         "75": "Missions (Foreign Missions)",
-        "76": "General Interrest (Military Culture)",
+        "76": "General Interest (Military Culture)",
         "77": "General Interest (Architecture)",
         "78": "Bible (Old Testament Lessons)",
         "79": "Advertisements (Goods and Services)",
