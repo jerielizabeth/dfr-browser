@@ -1,6 +1,6 @@
 {
     "VIS": {
-        "overview_words": 15
+        "overview_words": 20
     }, 
     "meta_info": "<h2>About the Topic Model Browser</h2><p>This site provides access to an implementation of Andrew Goldstone's <a href='http://agoldst.github.io/dfr-browser/'>Data for Research Topic Model Browser</a>, visualizing a 250 topic model of the periodical literature of the Seventh-day Adventist denomination. The browser part of Jeri E. Wieringa's dissertation project, <a href='http://dissertation.jeriwieringa.com'><em>A Gospel of Health and Salvation: Modeling the Religious Culture of Seventh-day Adventism, 1843-1920</em></a>.</p> <p>To read more about the selection, use, and evaluation of the browser as part of a digital humanities dissertation, see <a href='http://dissertation.jeriwieringa.com/browser-about/'>the browser 'About' page</a> on the main dissertation site.</p>", 
     "title": "A Gospel of Health and Salvation",
